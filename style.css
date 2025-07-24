@@ -1,0 +1,110 @@
+.alinhartexto {
+    text-align: center;
+}
+
+.tamanhotextotitulo {
+    font-size: 50px;
+}
+
+.cortitulo {
+    color: #ff3131;
+}
+
+body{
+    background-image: url('imagens/plano-fundo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Tektur', sans-serif;
+}
+
+.subirtexto2 {
+    position: relative;
+    top: -30px;
+}
+
+.corh2{
+    color: white;
+}
+
+.link-titulo {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link-titulo:hover {
+  color: #ffffff;
+  text-shadow: 0 0 8px #880b0b;
+  transform: scale(1.05);
+}
+
+  .img {
+  width: 35vh;
+  height: 60vh;
+  border-radius: 30px;
+  aspect-ratio: 10 / 24;
+  object-fit: cover;
+  display: block;
+}
+
+.imagem-zoom {
+  width: 300px;
+  transition: transform 0.3s ease;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.imagem-zoom:hover {
+  transform: scale(1.1);
+}
+
+.imagem-com-texto {
+  position: relative;
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.imagem-com-texto:hover {
+  transform: scale(1.1);
+}
+
+.texto-na-imagem {
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 40px;
+  font-family: 'Tektur', sans-serif;
+  pointer-events: none;
+}
+
+.texto-na-imagem {
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 40px;
+  font-family: 'Tektur', sans-serif;
+  pointer-events: none;
+}
+
+.texto-na-imagem {
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 40px;
+  font-family: 'Tektur', sans-serif;
+  pointer-events: none;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
