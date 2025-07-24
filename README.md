@@ -16,4 +16,5 @@
 </p>
 
 ## 🖼️ Preview
-[PopCine]((https://antunesdvz.github.io/popcine-site/))
+Você pode acessar o PopCine aqui:  
+🔗 [PopCine](https://antunesdvz.github.io/popcine-site/)
