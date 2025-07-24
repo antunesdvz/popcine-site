@@ -18,3 +18,9 @@
 ## 🖼️ Preview
 Você pode acessar o PopCine aqui:  
 🔗 [PopCine](https://antunesdvz.github.io/popcine-site/)
+
+## 🚀 Como executar
+```bash
+Clone o repositório git clone https://github.com/antunesdvz/popcine-site
+Acesse a pasta do projeto cd popcine-site
+Abra o arquivo index.html no navegador
