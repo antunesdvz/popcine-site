@@ -38,7 +38,7 @@ body{
   transform: scale(1.05);
 }
 
-  .img {
+.img {
   width: 35vh;
   height: 60vh;
   border-radius: 30px;
@@ -66,28 +66,6 @@ body{
 
 .imagem-com-texto:hover {
   transform: scale(1.1);
-}
-
-.texto-na-imagem {
-  position: absolute;
-  bottom: -10px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white;
-  font-size: 40px;
-  font-family: 'Tektur', sans-serif;
-  pointer-events: none;
-}
-
-.texto-na-imagem {
-  position: absolute;
-  bottom: -10px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white;
-  font-size: 40px;
-  font-family: 'Tektur', sans-serif;
-  pointer-events: none;
 }
 
 .texto-na-imagem {
